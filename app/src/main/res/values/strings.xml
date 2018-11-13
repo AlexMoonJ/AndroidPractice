@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPractice</string>
+    <string name="userIdError">账号为空！</string>
+    <string name="passError">密码为空！</string>
+    <string name="loginSuccess">登录成功！ </string>
+    <string name="loginError">账号或密码错误 ！</string>
+</resources>
